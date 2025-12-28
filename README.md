@@ -1,4 +1,4 @@
-# 📧 pamShield - An Email Spam Detector
+# 📧 SpamShield - An Email Spam Detector
 
 A comprehensive **Real-Time Email Spam Detection System** implementing NLP concepts.
 

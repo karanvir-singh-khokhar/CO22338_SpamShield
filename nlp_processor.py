@@ -24,6 +24,7 @@ except LookupError:
     nltk.download('stopwords')
 
 nltk.download('punkt_tab')
+nltk.download('averaged_perceptron_tagger_eng')
 
 from nltk.tokenize import word_tokenize
 from nltk.stem import PorterStemmer, LancasterStemmer

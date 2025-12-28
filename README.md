@@ -1,4 +1,4 @@
-# 📧 Email Spam Detector - Real-Time NLP Application
+# 📧 SpamShield - A Real-Time NLP Application
 
 A comprehensive **Real-Time Email Spam Detection System** implementing NLP concepts.
 

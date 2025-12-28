@@ -23,6 +23,8 @@ try:
 except LookupError:
     nltk.download('stopwords')
 
+nltk.download('punkt_tab')
+
 from nltk.tokenize import word_tokenize
 from nltk.stem import PorterStemmer, LancasterStemmer
 from nltk.corpus import stopwords

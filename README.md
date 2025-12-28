@@ -232,6 +232,6 @@ This is an academic project. Feel free to:
 
 This project is for educational purposes.
 
-~ Web App Link:
+~ Web App Link: https://co22338-spamshield.streamlit.app/
 
 ---
